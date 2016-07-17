@@ -1,11 +1,4 @@
-#Starting from ubuntu base image
-#FROM ubuntu:14.04
-#RUN apt-get update
-
-#Installing python, pip
-#RUN apt-get install -y python
-#RUN apt-get install -y python-pip
-#RUN apt-get clean all
+#from official python 2.7 docker build
 
 FROM buildpack-deps:jessie
 
@@ -15,9 +8,6 @@ RUN apt-get purge -y python.*
 # http://bugs.python.org/issue19846
 # > At the moment, setting "LANG=C" on a Linux system *fundamentally breaks Python 3*, and that's not OK.
 ENV LANG C.UTF-8
-
-# gpg: key 18ADD4FF: public key "Benjamin Peterson <benjamin@python.org>" imported
-ENV GPG_KEY C01E1CAD5EA2C4F0B8E3571504C367C218ADD4FF
 
 ENV PYTHON_VERSION 2.7.12
 
