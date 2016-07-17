@@ -60,10 +60,10 @@ RUN pip install --no-cache-dir virtualenv
 WORKDIR /app
 
 #Add requirements file before install requirements
-COPY ubertool_requirements.txt ./ubertool_requirements.txt
+COPY requirements_ubertool.txt ./requirements_ubertool.txt
 
 #Install requirements, including nose2
-RUN pip install -r ubertool_requirements.txt
+RUN pip install -r requirements_ubertool.txt
 
 #Add the whole repository to the container
 COPY . ./
