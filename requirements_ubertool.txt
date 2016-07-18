@@ -3,6 +3,9 @@ bottle
 codecov
 coverage
 coveralls
+flask
+flask_restful
+flask_swagger
 futures
 nose2
 nose-cov
