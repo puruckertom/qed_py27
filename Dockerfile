@@ -57,6 +57,3 @@ COPY requirements_ubertool.txt ./requirements_ubertool.txt
 
 #Install requirements, including nose2
 RUN pip install -r requirements_ubertool.txt
-
-#Add the whole repository to the container
-COPY . ./
