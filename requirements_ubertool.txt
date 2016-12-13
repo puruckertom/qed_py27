@@ -1,6 +1,4 @@
 beautifulsoup4
-boto
-bottle
 codecov
 coverage
 coveralls
