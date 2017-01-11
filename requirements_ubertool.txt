@@ -30,5 +30,5 @@ snakefood
 Sphinx
 tabulate
 twine
-xhtml2pdf
+xhtml2pdf==0.1b1
 xlsxwriter
