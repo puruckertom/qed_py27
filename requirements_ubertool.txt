@@ -10,7 +10,7 @@ flask
 flask_restful
 flask_swagger
 futures
-html5lib
+html5lib==0.99
 mechanize
 nose2
 nose-cov
