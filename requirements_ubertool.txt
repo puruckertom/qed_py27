@@ -6,9 +6,12 @@ coveralls
 django
 django-parsley
 django-rest-swagger
+enum
+enum34
 flask
 flask_restful
 flask_swagger
+flower
 futures
 html5lib==0.99
 mechanize
@@ -30,5 +33,6 @@ snakefood
 Sphinx
 tabulate
 twine
+uwsgi
 xhtml2pdf==0.1b2
 xlsxwriter
