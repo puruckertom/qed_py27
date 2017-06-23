@@ -19,6 +19,7 @@ html5lib==0.99
 mechanize
 nose2
 nose-cov
+numba
 numpy
 pandas
 pillow
