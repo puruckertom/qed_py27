@@ -11,7 +11,7 @@ enum==0.4.6
 enum34==1.1.6
 factory-boy==2.8.1
 flask==0.12.2
-flask_restful
+flask-restful==0.3.6
 flask_swagger
 flower
 futures
