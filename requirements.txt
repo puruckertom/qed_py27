@@ -23,7 +23,7 @@ numba==0.33.0
 numpy==1.13.0
 pandas==0.20.2
 pillow==4.1.1
-psycopg2
+psycopg2==2.7.1
 pylint
 pymongo==2.8.0
 pypdf2
