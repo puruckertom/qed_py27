@@ -40,4 +40,4 @@ tabulate==0.7.7
 twine==1.9.1
 uwsgi==2.0.15
 xhtml2pdf==0.2b1
-xlsxwriter
+xlsxwriter==0.9.7
