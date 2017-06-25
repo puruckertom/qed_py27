@@ -14,7 +14,7 @@ flask==0.12.2
 flask-restful==0.3.6
 flask-swagger==0.2.13
 flower==0.9.2
-futures
+futures==3.1.1
 html5lib==0.99
 mechanize
 nose2
