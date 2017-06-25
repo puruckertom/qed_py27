@@ -7,7 +7,7 @@ django==1.11.2
 django-crispy-forms==1.6.1
 django-parsley==0.6
 django-rest-swagger==2.1.2
-enum
+enum==0.4.6
 enum34
 factory_boy
 flask
