@@ -38,6 +38,6 @@ snakefood==1.4
 Sphinx==1.6.2
 tabulate==0.7.7
 twine==1.9.1
-uwsgi
+uwsgi==2.0.15
 xhtml2pdf==0.1b2
 xlsxwriter
