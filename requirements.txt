@@ -36,7 +36,7 @@ scipy==0.19.1
 selenium==3.4.3
 snakefood==1.4
 Sphinx==1.6.2
-tabulate
+tabulate==0.7.7
 twine
 uwsgi
 xhtml2pdf==0.1b2
