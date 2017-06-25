@@ -26,7 +26,7 @@ pillow==4.1.1
 psycopg2==2.7.1
 pylint==1.7.1
 pymongo==3.4.0
-pypdf2
+pypdf2==1.26.0
 python-coveralls
 pytz
 redis
