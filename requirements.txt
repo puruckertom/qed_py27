@@ -22,7 +22,7 @@ nose-cov==1.6
 numba==0.33.0
 numpy==1.13.0
 pandas==0.20.2
-pillow
+pillow==4.1.1
 psycopg2
 pylint
 pymongo==2.8.0
