@@ -6,7 +6,7 @@ coveralls==1.1
 django==1.11.2
 django-crispy-forms==1.6.1
 django-parsley==0.6
-django-rest-swagger
+django-rest-swagger==2.1.2
 enum
 enum34
 factory_boy
