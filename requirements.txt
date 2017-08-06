@@ -31,7 +31,7 @@ python-coveralls==2.9.1
 pytz==2017.2
 redis==2.10.5
 reportlab==3.4.0
-requests==2.18.1
+requests==2.18.3
 scipy==0.19.1
 selenium==3.4.3
 snakefood==1.4
