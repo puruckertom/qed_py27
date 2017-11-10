@@ -32,7 +32,7 @@ pytz==2017.3
 redis==2.10.6
 reportlab==3.4.0
 requests==2.18.4
-scipy==0.19.1
+scipy==1.0.0
 selenium==3.4.3
 snakefood==1.4
 Sphinx==1.6.2
