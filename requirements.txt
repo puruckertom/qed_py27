@@ -20,7 +20,7 @@ mechanize==0.3.6
 nose2==0.7.2
 nose-cov==1.6
 numba==0.35.0
-numpy==1.13.0
+numpy==1.13.3
 pandas==0.20.2
 pillow==4.1.1
 psycopg2==2.7.1
