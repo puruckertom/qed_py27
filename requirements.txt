@@ -21,7 +21,7 @@ nose2==0.7.2
 nose-cov==1.6
 numba==0.36.1
 numpy==1.13.3
-pandas==0.20.2
+pandas==0.21.0
 pillow==4.1.1
 psycopg2==2.7.1
 pylint==1.7.1
