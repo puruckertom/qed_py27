@@ -4,7 +4,7 @@ codecov==2.0.12
 coverage==4.4.2
 coveralls==1.2.0
 django==2.0.1
-django-crispy-forms==1.6.1
+django-crispy-forms==1.7.0
 django-parsley==0.6
 django-rest-swagger==2.1.2
 enum==0.4.6
