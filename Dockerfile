@@ -5,7 +5,7 @@ FROM python:2
 WORKDIR /src
 
 #Add requirements file before install requirements
-COPY requirements_ubertool.txt ./requirements_ubertool.txt
+COPY requirements.txt ./requirements.txt
 
 #Install requirements, including nose2
-RUN pip install -r requirements_ubertool.txt
+RUN pip install -r requirements.txt
